@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1509733627 source:c:\users\philipp\documents\github\roboter\r31k\r31k\fuse.c
+	<avr/io.h>
+
+1509828635 source:c:\users\philipp\documents\github\roboter\r31k\r31k\main.c
+	<avr/io.h>
+	<util/delay.h>
+	"ELRobot_New.h"
+
+1509823426 c:\users\philipp\documents\github\roboter\r31k\r31k\elrobot.h
+
+1509828383 c:\users\philipp\documents\github\roboter\r31k\r31k\elrobot_new.h
+	<avr/interrupt.h>
+
